@@ -1,4 +1,4 @@
-FROM mysql
+FROM mysql:8.0.11
 
 ENV MYSQL_ROOT_PASSWORD=zaq12wsx
 
